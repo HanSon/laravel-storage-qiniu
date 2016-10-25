@@ -1,5 +1,5 @@
 {
-  "name": "HanSon/laravel-storage-qiniu",
+  "name": "hanson/laravel-storage-qiniu",
   "type": "library",
   "description": "A storage library for laravel5 and qiniu sdk",
   "keywords": [
