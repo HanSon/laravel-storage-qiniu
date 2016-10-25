@@ -32,7 +32,7 @@
   ],
   "require": {
     "php": ">=5.3.3",
-    "qiniu/php-sdk": "dev-master"
+    "hanson/php-sdk": "7.0.9"
   },
   "autoload": {
     "psr-4": {
